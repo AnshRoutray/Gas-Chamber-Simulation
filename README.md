@@ -1,1 +1,1 @@
-This program simulates gas particles in a chamber and then plots its repsective maxwell boltzmann distribution.
+This program simulates gas particles in a chamber and then plots its respective Maxwell Boltzmann distribution
